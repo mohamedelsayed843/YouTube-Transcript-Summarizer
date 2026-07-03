@@ -102,7 +102,7 @@ Summary 2
 +
 Summary 3
 
-↓
+↓  
 Final Summary
 
 ## Future Improvements
