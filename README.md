@@ -100,8 +100,7 @@ Summary 1
 +
 Summary 2
 +
-Summary 3
-
+Summary 3  
 ↓  
 Final Summary
 
